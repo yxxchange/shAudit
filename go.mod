@@ -1,4 +1,4 @@
-module shAudit
+module github.com/yxxchange/shAudit
 
 go 1.24.0
 

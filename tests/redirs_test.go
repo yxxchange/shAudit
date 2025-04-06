@@ -2,8 +2,8 @@ package tests
 
 import (
 	"fmt"
+	"github.com/yxxchange/shAudit/visitor"
 	"mvdan.cc/sh/v3/syntax"
-	"shAudit/visitor"
 	"strings"
 	"testing"
 )

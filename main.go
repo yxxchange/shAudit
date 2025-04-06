@@ -1,8 +1,8 @@
 package main
 
 import (
-	"shAudit/audit"
-	"shAudit/visitor"
+	"github.com/yxxchange/shAudit/audit"
+	"github.com/yxxchange/shAudit/visitor"
 )
 
 func main() {

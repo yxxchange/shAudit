@@ -1,9 +1,9 @@
 package visitor
 
 import (
+	"github.com/yxxchange/shAudit/utils"
 	"mvdan.cc/sh/v3/syntax"
 	"regexp"
-	"shAudit/utils"
 	"strings"
 )
 
